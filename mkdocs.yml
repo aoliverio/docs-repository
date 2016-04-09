@@ -4,6 +4,7 @@ site_description: Projects documentation with Markdown.
 site_author: Antonio Oliverio
 
 repo_url: https://github.com/aoliverio/docs-repository/
+theme: flatly
 
 pages:
 - Home: index.md
