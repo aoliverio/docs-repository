@@ -16,10 +16,10 @@ In addition to James Martin's RAD method, other approaches to rapid development 
 RAD is especially well suited (although not limited to) developing software that is driven by user interface requirements. 
 Graphical user interface builders are often called rapid application development tools.
 
-## Solution in CakePHP 3.x
+## The solution in CakePHP 3.x
 
 **Builder** from [aoliverio/builder](https://github.com/aoliverio) on [GitHub Repository](https://github.com/aoliverio), 
 it's a solution developed as CakePHP 3.x plugin, to use the best techniques and technologies, in the development of web-oriented applications.
 
-The general characteristics of the solution are discussed in the Builder page, 
+The general features of the solution are discussed in the Builder page, 
 while the extensions provided as a plug-in CakePHP environment are treated in Extensions page.

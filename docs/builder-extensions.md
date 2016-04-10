@@ -1,12 +1,20 @@
-# Extensions
+# Builder Extensions
 
-These are all developed plugins to interact with the Builder core.
+These are all developed plugins to interact with the Builder core plugin.
 
 ## Content Management System
 
-Multisite and multi languages CMS solution:
+This is the main solution to provide a multisite and multi languages CMS in your application, 
+using the Builder extensions.
 
-- **Content** plugin, a content management system backend.
-- **Site** plugin, a content management system frontend.
+### Content
 
-See the docs on [how to use Builder CMS](http://aoliverio.readthedocs.org/projects/content/en/latest/).
+**Content** plugin, a content management system backend.
+
+See the docs on [how to use Site](http://aoliverio.readthedocs.org/projects/builder-content/en/latest/).
+
+### Site
+
+**Site** plugin, a content management system frontend.
+
+See the docs on [how to use Content ](http://aoliverio.readthedocs.org/projects/builder-site/en/latest/).
