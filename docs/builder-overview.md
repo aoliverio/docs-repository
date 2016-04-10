@@ -4,7 +4,7 @@ In this section you can find the general information and links to specific secti
 relating to the development of open sorce RAD solutions , as well as the necessary documentation for their use. 
 
 The development and documentation are provided by [Antonio Oliverio](http://www.aoliverio.com), 
-it is corrected and extended thanks to contributions from the community on [GitHub Repoitory](https://github.com/aoliverio).
+it is corrected and extended thanks to contributions from the community on [GitHub Repository](https://github.com/aoliverio).
 
 ## What is the RAD?
 
@@ -18,8 +18,8 @@ Graphical user interface builders are often called rapid application development
 
 ## Solution in CakePHP 3.x
 
-**Builder** from [aoliverio/builder](https://github.com/aoliverio) on GitHub repository, it's a solution developed as CakePHP 3.x plugin, 
-to use the best techniques and technologies, in the development of web-oriented applications.
+**Builder** from [aoliverio/builder](https://github.com/aoliverio) on [GitHub Repository](https://github.com/aoliverio), 
+it's a solution developed as CakePHP 3.x plugin, to use the best techniques and technologies, in the development of web-oriented applications.
 
 The general characteristics of the solution are discussed in the Builder page, 
 while the extensions provided as a plug-in CakePHP environment are treated in Extensions page.
