@@ -10,10 +10,10 @@ using the Builder core plugin.
 
 **Content** plugin, a content management system backend, see the docs on [how to use Content plugin](http://aoliverio.readthedocs.org/projects/builder-content/en/latest/).
 
-- Get source code on [GitHub](https://github.com/aoliverio/content).
-- This package is distributed on [Packagist](https://packagist.org/packages/aoliverio/content).  
+- The source code is hosted on [GitHub](https://github.com/aoliverio/content).
+- The package is distributed with [Packagist](https://packagist.org/packages/aoliverio/content).  
 
 **Site** plugin, a content management system frontend, see the docs on [how to use Site plugin](http://aoliverio.readthedocs.org/projects/builder-site/en/latest/).
 
-- Get source code on [GitHub](https://github.com/aoliverio/site).
-- This package is distributed on [Packagist](https://packagist.org/packages/aoliverio/site). 
+- The source code is hosted on [GitHub](https://github.com/aoliverio/site).
+- The package is distributed with [Packagist](https://packagist.org/packages/aoliverio/site). 
