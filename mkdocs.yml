@@ -7,7 +7,7 @@ repo_url: https://github.com/aoliverio/docs-repository/
 
 pages:
 - Home: index.md
-- Rapid Application Development:
+- RAPID APPLICATION DEVELOPMENT:
     - Overview: builder-overview.md
     - Builder: builder.md
     - Extensions: builder-extensions.md
