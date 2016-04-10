@@ -25,13 +25,13 @@ Some of the highlights:
 - Used DataTables JQuery plugin for table in the index template.
 - Integrated simple Role-Based Access Controll.
 
-See the docs on [How to use Builder](http://aoliverio.readthedocs.org/projects/builder/en/latest/)
+See the docs on [how to use Builder](http://aoliverio.readthedocs.org/projects/builder/en/latest/).
 
 ## Builder Extensions
 
 Multisite and multi languages CMS solution:
 
-- **Content** plugin, a content management system backend
-- **Site** plugin, a content management system frontend
+- **Content** plugin, a content management system backend.
+- **Site** plugin, a content management system frontend.
 
-See the docs on [How to use Builder CMS](http://aoliverio.readthedocs.org/projects/content/en/latest/)
+See the docs on [how to use Builder CMS](http://aoliverio.readthedocs.org/projects/content/en/latest/).
