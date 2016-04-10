@@ -8,30 +8,5 @@ In addition to James Martin's RAD method, other approaches to rapid development 
 RAD is especially well suited (although not limited to) developing software that is driven by user interface requirements. 
 Graphical user interface builders are often called rapid application development tools.
 
-**Builder** from aoliverio/builder, is my solution, developed as a plugin in CakePHP 3.x framework, for the use of the best 
-techniques and technologies, to development of web-oriented applications.
-
-## Builder
-
-**Builder** is a CakePHP 3.x plugin used to generate code in Bootstrap 3 style. 
-
-Some of the highlights:
-
-- Defined a new Bake template for generate CRUD using Bootstrap 3 framework.
-- Added filter action to controller and generate base filter template.
-- Open add, edit, delete and filter templates in the Bootstrap 3 modal view.
-- Used grid and detail template to extend the index and view actions functionality.
-- Used element to import in CakePHP 3 app default code and behavior.
-- Used DataTables JQuery plugin for table in the index template.
-- Integrated simple Role-Based Access Controll.
-
-See the docs on [how to use Builder](http://aoliverio.readthedocs.org/projects/builder/en/latest/).
-
-## Builder Extensions
-
-Multisite and multi languages CMS solution:
-
-- **Content** plugin, a content management system backend.
-- **Site** plugin, a content management system frontend.
-
-See the docs on [how to use Builder CMS](http://aoliverio.readthedocs.org/projects/content/en/latest/).
+**Builder** from aoliverio/builder GitHub repository, is my solution, developed as a plugin in CakePHP 3.x framework, 
+for the use of the best techniques and technologies, to development of web-oriented applications.

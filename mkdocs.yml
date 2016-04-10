@@ -10,4 +10,4 @@ pages:
 - Rapid Application Development:
     - Overview: builder-overview.md
     - Builder: builder.md
-    - Builder extensions: builder-extensions.md
+    - Extensions: builder-extensions.md
