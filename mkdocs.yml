@@ -4,10 +4,10 @@ site_description: Projects documentation with Markdown.
 site_author: Antonio Oliverio
 
 repo_url: https://github.com/aoliverio/docs-repository/
-theme: flatly
 
 pages:
 - Home: index.md
-- Projects:
+- Rapid Application Development:
+    - Overview: builder-overview.md
     - Builder: builder.md
     - Builder extensions: builder-extensions.md
