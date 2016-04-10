@@ -1,4 +1,4 @@
-# RAD Overview
+# What is the RAD?
 
 Rapid Application Development (RAD) is both a general term used to refer to alternatives to the 
 conventional waterfall model of software development as well as the name for James Martin's approach to rapid development.
