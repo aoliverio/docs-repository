@@ -22,4 +22,4 @@ Graphical user interface builders are often called rapid application development
 it's a solution developed as CakePHP 3.x plugin, to use the best techniques and technologies, in the development of web-oriented applications.
 
 The general features of the solution are discussed in the Builder page, 
-while the extensions provided as a plug-in CakePHP environment are treated in Extensions page.
+while the extensions are all developed plugins to interact with the Builder core plugin, they environment are treated in Extensions page.
